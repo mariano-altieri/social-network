@@ -3,10 +3,12 @@
     "version": "0.0.1",
     "dependencies": {
         "backbone": "~1.1.x",
-        "marionette": "2.3.2",
         "jquery": "~2.0.3",
-        "underscore": "1.7.0",
-        "nunjucks": "~1.1"
+        "marionette": "2.3.2",
+        "nunjucks": "~1.1",
+        "requirejs": "~2.1.16",
+        "underscore": "1.7.0"
+
     },
     "resolutions": {
         "underscore": "1.7.0"

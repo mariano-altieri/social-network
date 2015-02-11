@@ -1,3 +1,5 @@
 .idea/
 node_modules/
-vendors/
+public/vendors/
+public/js/
+public/css/
