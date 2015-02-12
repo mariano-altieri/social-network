@@ -19,7 +19,7 @@ module.exports = (grunt) ->
 
     grunt.registerTask 'develop', [
         'clean:build'
-        #'compass:server'
+        'compass'
         'coffeelint'
         'coffee:compile'
         'nunjucks'
